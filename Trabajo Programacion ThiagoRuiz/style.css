@@ -1,0 +1,33 @@
+body{
+text-align: center;
+
+}
+
+h1 {
+
+    color:rgb(0, 247, 144)
+}
+h2 {
+
+    color:brown
+
+}
+h3{
+    color:hotpink
+
+}
+h4 {
+    color:peru
+
+}
+h5 {
+    color:slategrey
+
+}
+h6 {
+    color:purple
+}
+
+span {
+    color:blueviolet
+}
