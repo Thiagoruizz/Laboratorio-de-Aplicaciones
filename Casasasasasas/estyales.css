@@ -1,0 +1,40 @@
+body{
+    font-family: sans-serif;
+    margin: 5%;
+    background-color: royalblue;
+}
+
+img {
+    max-width: 100%;
+    height: 350px;
+    width: 400px;
+    display: block;
+
+}
+
+.izquierda {
+
+    
+    margin-left: 0%;
+    margin-right: auto;
+    text-align: left;
+}
+
+.centro {
+
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+
+.derecha {
+    margin-left: auto;
+    margin-right: 0%;
+    text-align: right;
+}
+
+p {
+color: brown;
+
+}
